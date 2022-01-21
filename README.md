@@ -1,6 +1,6 @@
 # g-t-b-pages
 
-A *g*a*t*s*b*y-based static-site generator for *g*i*t*hu*b* pages
+A **G**a**t**s**b**y-based static-site generator for **G**i**t**Hu**b** pages for those who want to be a bit more Reactive.
 
 ## How to use
 
@@ -19,3 +19,13 @@ yarn develop
 ```
 
 Now, you should be able to visit `http://localhost:8000/`
+
+### Deploy
+
+```
+yarn deploy
+```
+
+If it doesn't already exist, a `gh-pages` branch should be created, which should automatically set up and publish the GitHub page.
+
+To view the settings for your repository's Github Page, go to Settings -> Pages.
