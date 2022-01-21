@@ -1,11 +1,12 @@
 {
   "name": "g-t-b-pages",
   "version": "1.0.0",
-  "private": true,
-  "description": "A Gatsby-based github pages",
+  "license": "MIT",
+  "description": "A Gatsby-based static-site generator for GitHub Pages",
   "author": "Ethan Chiou",
   "keywords": [
     "gatsby",
+    "react",
     "gh-pages"
   ],
   "scripts": {
