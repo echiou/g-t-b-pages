@@ -22,6 +22,10 @@ Now, you should be able to visit `http://localhost:8000/`
 
 ### Deploy
 
+The page should deploy automatically on pushes to `main`; you should see a `deploy-gh-pages` action run in your Actions tab.
+
+### Deploy Manually
+
 ```
 yarn deploy
 ```
